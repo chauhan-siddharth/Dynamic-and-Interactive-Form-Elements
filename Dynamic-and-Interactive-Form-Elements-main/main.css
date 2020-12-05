@@ -1,0 +1,80 @@
+body{height: 100vh; width: 100vw;
+padding: 0;
+margin: 0;
+background-image: linear-gradient(to top, #30cfd0 0%, #9062c7 100%);
+}
+.header{ height: 100px; width: 100%; background-color: transparent;
+padding: 0;
+padding-top: 20px;
+
+justify-content: space-around;
+display: flex;
+
+
+
+
+}
+#myDiv1{width: 100vw; text-align: center;
+
+}
+/* #row1{width: 100%; display: flex;}
+#row2{width: 100%; display: flex;} */
+#content{
+    position: absolute;
+    top: 100px;
+}
+#row1 {
+    display: flex;
+    margin-right: 0px;
+    margin-left: 0px;
+    width: 100vw;
+  
+  }
+  #row3 {
+    display: flex;
+    margin-right: 0px;
+    margin-left: 0px;
+    width: 100vw;
+  
+  }
+#mySelect1{
+    position: absolute;
+    left: 100px;
+    top: 100px;
+}
+#mySelect2{
+    position: absolute;
+    left: 500px;
+    top: 100px;
+}
+#mySelect3{
+    position: absolute;
+    left: 900px;
+    top: 100px;
+}
+#h1{
+    position: absolute;
+    left: 100px;
+    top: 30px;
+}
+#h2{
+    position: absolute;
+    left: 500px;
+    top: 30px;
+}
+#h3{
+    position: absolute;
+    left: 900px;
+    top: 30px;
+}
+  #row2 {
+    display: flex;
+    margin-right: 0px;
+    margin-left: 0px;
+    width: 100vw;
+    
+  }
+#vidDiv{
+    position: relative;
+    top:200px;
+}
